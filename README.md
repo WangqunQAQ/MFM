@@ -1,4 +1,4 @@
-# McVG
-Multi-Stage Cross-Modal Efficient Modulation for Visual Grounding.
+# MFM
+A Simple yet Efficient Multimodal Feature Modulation Adapter for Visual Grounding.
 
 The code will be released soon.
